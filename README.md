@@ -4,7 +4,7 @@
 ## 🔭 I’m currently working with:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![React.js](http://img.shields.io/badge/-react-333333?style=flat&logo=react)
+![React.js](http://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
 
 
 ### ⚡ Technologies
@@ -25,12 +25,14 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Shell](https://img.shields.io/badge/Shell-f05032?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![React.js](http://img.shields.io/badge/-react-333333?style=flat&logo=react)
+![React.js](http://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
+![AngularJS](https://img.shields.io/badge/-AngularJS-e23237?style=flat-square&logo=angularjs&logoColor=e23237)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apache-kafka)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-0052CC?style=flat-square&logo=gitlab)

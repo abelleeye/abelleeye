@@ -4,7 +4,7 @@
 ## 🔭 I’m currently working with:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![React.js](http://img.shields.io/badge/-react-333333?style=flat&logo=react)
 
 
 ### ⚡ Technologies

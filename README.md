@@ -12,8 +12,8 @@
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbelLee-LiYe&hide=html&layout=compact&theme=dracula&count_private=true" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=AbelLee-LiYe&theme=dracula&count_private=true"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelleeye&hide=html&layout=compact&theme=dracula&count_private=true" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=abelleeye&theme=dracula&count_private=true"/></td>
     </tr>   
 </table>
 </center> 

@@ -10,12 +10,14 @@
 ### ⚡ Technologies
 
 <center>
-<table>
-    <tr>
+  <table>
+    <tbody>
+      <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelleeye&hide=html&layout=compact&theme=dracula&count_private=true" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=abelleeye&theme=dracula&count_private=true"/></td>
-    </tr>   
-</table>
+      </tr>   
+    </tbody> 
+  </table>
 </center> 
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)

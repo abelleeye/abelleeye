@@ -1,7 +1,7 @@
 # Hi there, I'm Abel 👋
 
 
-## 🔭 I’m currently working with:
+## <img src="https://emojis.slackmojis.com/emojis/images/1490885301/1973/mario_luigi_dance.gif?1490885301" width="30"/> I’m currently working with:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![React.js](http://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
